@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "741a0f51-1a30-452e-987c-ce37ac76d862",
+  "path": "create-readme",
+  "path_key": "create-readme",
+  "enabled": true,
+  "tags": [
+    "docs"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/create-readme",
+    "subpath": "skills/create-readme",
+    "branch": null
+  }
+}

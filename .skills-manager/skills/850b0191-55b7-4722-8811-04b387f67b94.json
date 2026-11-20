@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "850b0191-55b7-4722-8811-04b387f67b94",
+  "path": "docs-archive",
+  "path_key": "docs-archive",
+  "enabled": true,
+  "tags": [
+    "docs"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

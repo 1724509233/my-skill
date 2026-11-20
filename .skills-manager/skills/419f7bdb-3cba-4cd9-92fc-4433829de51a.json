@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "419f7bdb-3cba-4cd9-92fc-4433829de51a",
+  "path": "writing-plans",
+  "path_key": "writing-plans",
+  "enabled": true,
+  "tags": [
+    "planning",
+    "superpowers"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

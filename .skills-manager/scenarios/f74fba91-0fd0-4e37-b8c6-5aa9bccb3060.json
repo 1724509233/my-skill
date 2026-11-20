@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "f74fba91-0fd0-4e37-b8c6-5aa9bccb3060",
+  "name": "web-dev",
+  "description": null,
+  "icon": "blocks",
+  "sort_order": 999
+}

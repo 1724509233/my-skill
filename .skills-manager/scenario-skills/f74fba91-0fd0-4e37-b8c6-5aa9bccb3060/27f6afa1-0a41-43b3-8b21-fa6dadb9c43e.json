@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "scenario_id": "f74fba91-0fd0-4e37-b8c6-5aa9bccb3060",
+  "skill_id": "27f6afa1-0a41-43b3-8b21-fa6dadb9c43e",
+  "sort_order": 7,
+  "tools": {
+    "codex": false,
+    "deepseek_harness": false,
+    "github_copilot": false,
+    "omp_agent": false,
+    "opencode": true,
+    "pi": false,
+    "qoder": true,
+    "trae_cn": true,
+    "zcode": true
+  }
+}

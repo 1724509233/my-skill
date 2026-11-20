@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b5e087c-c64c-485a-8e8b-e93e7a43c901",
+  "path": "brainstorming",
+  "path_key": "brainstorming",
+  "enabled": true,
+  "tags": [
+    "planning",
+    "superpowers"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

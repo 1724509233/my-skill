@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "983c3f15-dd94-4fb7-8fc5-5561f30a2d3d",
+  "path": "repo-doc-archiver",
+  "path_key": "repo-doc-archiver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

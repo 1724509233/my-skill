@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2d8a3ed-2f6e-4df7-abf9-87cc948b8729",
+  "path": "swiftui-expert-skill",
+  "path_key": "swiftui-expert-skill",
+  "enabled": true,
+  "tags": [
+    "implement",
+    "refactor",
+    "review"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "avdlee/swiftui-agent-skill/swiftui-expert-skill",
+    "subpath": "swiftui-expert-skill",
+    "branch": null
+  }
+}

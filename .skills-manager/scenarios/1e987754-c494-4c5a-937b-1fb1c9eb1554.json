@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "1e987754-c494-4c5a-937b-1fb1c9eb1554",
+  "name": "swift-dev",
+  "description": "macOS 应用开发所需的 skill 集：规划/拷问/架构决策/UI 设计",
+  "icon": "rocket",
+  "sort_order": 999
+}

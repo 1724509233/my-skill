@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d2a7e56-bd46-4ad3-bc54-b4325097cd1e",
+  "path": "swiftui-pro",
+  "path_key": "swiftui-pro",
+  "enabled": true,
+  "tags": [
+    "review"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "twostraws/swiftui-agent-skill/swiftui-pro",
+    "subpath": "swiftui-pro",
+    "branch": null
+  }
+}

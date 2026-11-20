@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a86ce038-e31e-49cf-a5ec-66f2cbb12f70",
+  "path": "tauri-v2",
+  "path_key": "tauri-v2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

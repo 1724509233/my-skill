@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "67fe2e14-370e-49a5-8c6e-0c20faf28cda",
+  "path": "finishing-a-development-branch",
+  "path_key": "finishing-a-development-branch",
+  "enabled": true,
+  "tags": [
+    "integrate",
+    "superpowers"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "obra/superpowers/finishing-a-development-branch",
+    "subpath": "skills/finishing-a-development-branch",
+    "branch": null
+  }
+}
